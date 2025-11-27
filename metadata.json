@@ -1,0 +1,7 @@
+{
+  "name": "Aura AI Fitness",
+  "description": "Offline-first AI workout tracker that counts your reps automatically using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
